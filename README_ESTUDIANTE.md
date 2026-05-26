@@ -36,16 +36,10 @@ Personalizar una plantilla web profesional utilizando Git y GitHub.
 1. Captura del repositorio clonado
 <img src="https://github.com/user-attachments/assets/baa3340e-5b4f-4284-ac62-aa06115bbea5" width="600" alt="Clonado"/>
 
-2. Captura del sitio original
-<img src="https://github.com/user-attachments/assets/a3a8828a-28ec-49a4-a4c0-f410619ac51c" width="600" alt="Examen Módulo 5"/>
+2. Captura del sitio personalizado
+   ## Comandos Git utilizados
+<img src="https://github.com/user-attachments/assets/a3a8828a-28ec-49a4-a4c0-f410619ac51c" width="600" alt="Home"/>
 
-3. Captura del sitio personalizado
-<img src="evidencias/3_sitio_personalizado.png" width="800"/>
 
-4. Captura del archivo README_ESTUDIANTE.md
-<img src="evidencias/4_readme.png" width="800"/>
-
-5. Captura de comandos Git utilizados
-<img src="evidencias/5_comandos_git.png" width="800"/>
 
 
