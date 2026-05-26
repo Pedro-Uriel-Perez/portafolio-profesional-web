@@ -37,7 +37,7 @@ Personalizar una plantilla web profesional utilizando Git y GitHub.
 <img src="https://github.com/user-attachments/assets/1c256603-7786-4b4a-8bc6-d13ef1b5a79c" width="600" alt="Examen Módulo 5"/>
 
 2. Captura del sitio original
-<img src="<https://github.com/user-attachments/assets/01d4c82a-1ea1-422a-9d2f-b57273d0d5d5" width="800"/>
+<img src="https://github.com/user-attachments/assets/a3a8828a-28ec-49a4-a4c0-f410619ac51c" width="600" alt="Examen Módulo 5"/>
 
 3. Captura del sitio personalizado
 <img src="evidencias/3_sitio_personalizado.png" width="800"/>
