@@ -33,3 +33,7 @@ Personalizar una plantilla web profesional utilizando Git y GitHub.
 
 ## Evidencias
 Ver capturas adjuntas en el repositorio.
+
+
+### 1. Sección Home
+<img src="blob:https://web.whatsapp.com/c8042b46-bfc4-4809-b232-ef4919ec6ba0" width="800"/>
