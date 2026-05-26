@@ -37,7 +37,13 @@ Personalizar una plantilla web profesional utilizando Git y GitHub.
 <img src="https://github.com/user-attachments/assets/baa3340e-5b4f-4284-ac62-aa06115bbea5" width="600" alt="Clonado"/>
 
  ## 2. Captura del sitio personalizado
-   
+
+<img src="https://github.com/user-attachments/assets/a3a8828a-28ec-49a4-a4c0-f410619ac51c" width="600" alt="Home"/>
+
+<img src="https://github.com/user-attachments/assets/d51c4ebf-043e-4b4b-867e-53af273be58f" width="600" alt="Home"/>
+
+<img src="https://github.com/user-attachments/assets/903b390b-a2be-416e-8759-2bb654223584" width="600" alt="Home"/>
+
 <img src="https://github.com/user-attachments/assets/a3a8828a-28ec-49a4-a4c0-f410619ac51c" width="600" alt="Home"/>
 
 
