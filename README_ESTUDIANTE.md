@@ -34,7 +34,7 @@ Personalizar una plantilla web profesional utilizando Git y GitHub.
 ## Evidencias
 
 1. Captura del repositorio clonado
-<img src="https://github.com/user-attachments/assets/1c256603-7786-4b4a-8bc6-d13ef1b5a79c" width="600" alt="Examen Módulo 5"/>
+<img src="https://github.com/user-attachments/assets/baa3340e-5b4f-4284-ac62-aa06115bbea5" width="600" alt="Clonado"/>
 
 2. Captura del sitio original
 <img src="https://github.com/user-attachments/assets/a3a8828a-28ec-49a4-a4c0-f410619ac51c" width="600" alt="Examen Módulo 5"/>
